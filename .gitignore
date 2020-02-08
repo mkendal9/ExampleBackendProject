@@ -1,0 +1,10 @@
+.vs/
+Database/bin/Debug/Database.dacpac
+Database/obj/
+EntityFramework/bin/
+EntityFramework/obj/
+ExampleProject/bin/
+ExampleProject/obj/
+Objects/obj/
+Objects/bin/
+Database/bin/
